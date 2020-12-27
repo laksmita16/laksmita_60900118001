@@ -16,7 +16,7 @@ body{
     height: auto;
 }
 
-#profile-name
+#profile-name{
     text-align: center;
 }
 
